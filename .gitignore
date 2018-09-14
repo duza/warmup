@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# vim plugin cache files
+tags
